@@ -1,6 +1,6 @@
 # Unilearn Software Engineer Practice
 
-![Coding Material](/uc_github_bannger.png)
+![Coding Material](/uc_github_banner.png)
 
 Welcome to the Coding Material repository! This repository contains coding exercises and examples in C++, Java, JavaScript, and Python to help you practice and improve your programming skills.
 
